@@ -21,4 +21,4 @@
 
 ## 许可协议 (License)
 
-采用 [MIT License](LICENSE) 协议开源。
+MIT
