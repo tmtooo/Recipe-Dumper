@@ -6,7 +6,7 @@
 ## 项目配合使用
 
 抓取的数据文件（如 `recipes_example.json`）可喂给与配套的**前端可视化配方树系统**进行搜索和展示。
-🔗 配套展示项目：[0]
+🔗 配套展示项目：[https://github.com/tmtooo/Recipe-Pathfinder]
 
 ## 如何构建 (Build)
 
