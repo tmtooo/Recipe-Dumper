@@ -1,5 +1,4 @@
-# Recipe Pathfinder Extractor
-
+# Recipe-Dumper
 这是一个用于自动提取 Minecraft 模组且适配 **GregTech Modern (GTCEu)** 及其附属配方(可导出如电压，时间，功率，输入输出物品/流体及其数量)的配方提取模组。通过官方 API 稳定抓取合成树数据，并导出为 JSON 格式。
 
 **声明：本项目大部分由 AI 编写，质量参差不齐**
