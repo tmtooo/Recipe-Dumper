@@ -1,0 +1,26 @@
+# Gradle
+.gradle/
+.gradle-user-home/
+build/
+bin/
+!gradle/wrapper/gradle-wrapper.jar
+
+# IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+.run/
+
+# Logs & Junk
+*.log
+hs_err_pid*
+replay_pid*
+tail_log.txt
+
+# VS Code
+.vscode/
+
+# Local properties
+local.properties
